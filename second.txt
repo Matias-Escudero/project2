@@ -1,0 +1,4 @@
+loren ipsum text for code2
+C-x C-c
+
+
